@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+}
+.A{
+    margin:50px 0px 0px 250px ;
+    width: 1000px;
+    height:700px;
+    background-color: #017972;
+}
+#logo{
+    margin: 20px 0px -15px 35px;
+    width: 50px;
+    height: 50px;
+    color: white;
+}
+span{
+    margin: 0px 0px -40px 0px ;
+    font-size: 40px;
+    color: white;
+}
+.C{
+    margin: 40px 0px 0px 25px;
+    width: 550px;
+    height:550px;
+    background-color: #D2D2D2;
+    border-radius: 12px;
+}
+fieldset{
+    margin: 30px 0px 0px 7px;
+    width: 500px;
+    height: 520px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-style: italic;
+    background-color:gainsboro
+}
+#register{
+    border: 1px solid black;
+    background-color: rgb(11, 246, 226);
+}
+h5{
+    margin: 20px 0px -37px 10px;
+    font-size: 25px;
+    color: rgb(30, 4, 94);
+}
+h6{
+    margin: 10px 0px -37px 10px;
+    font-size:25px;
+    color:rgb(30, 4, 94)
+}
+#box{
+    margin: 10px 0px 0px 180px;
+    width:290px;
+    height: 27px;
+    border-radius: 5px;
+    border: white;
+}
+#box1{
+    margin: 10px 0px 0px 180px;
+    width:290px;
+    height: 27px;
+    border-radius: 5px;
+    border: white;
+}
+h4{
+    margin: 20px 0px -37px 10px;
+    font-size: 25px;
+    color: rgb(30, 4, 94);
+}
+.gender1{
+    margin:8px 0px 0px 200px;
+    font-size: 25px;
+    color: rgb(30, 4, 94);
+}
+.gender2{
+    margin:-29px 0px 0px  350px;
+    font-size: 25px;
+    color: rgb(30, 4, 94);
+}
+h3{
+    text-align: center;
+    color: darkblue;
+    margin-top: 7px;
+}
+.interest1{
+    margin: -13px 0px 0px 100px;
+    font-size: 25px;
+}
+.interest2{
+    margin:-30px 0px 0px 300px ;
+    font-size: 25px;
+}
+.interest3{
+    margin: 10px 0px 0px 100px;
+    font-size: 25px;
+}
+.interest4{
+    margin: -30px 0px 0px 300px;
+    font-size: 25px;
+}
+#address{
+    margin: 0px 0px 0px 180px;
+    width: 290px;
+    height: 120px;
+    border-radius: 5px;
+    border: white;
+}
+#login{
+    margin:10px 0px 0px 165px  ;
+    width: 150px;
+    height: 35px;
+    background-color:rgb(4, 118, 124);
+    color:white;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    border: rgb(4, 118, 124);
+}
+#img{
+    margin:-1000px 0px 14px 585px;
+    width: 400px;
+    height: 550px;
+    border-radius: 12px;
+}

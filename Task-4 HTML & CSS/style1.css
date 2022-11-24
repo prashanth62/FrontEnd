@@ -1,0 +1,98 @@
+body{
+  background-color: black;
+  background-image:url(Beautiful-nature.jpg);
+
+}
+.A{
+    width: 1000px;
+    height:700px;
+    background-color:lightpink;
+    background: url(pic.jpeg);
+    margin: 50px 0px 0px 250px;
+}
+#logo{
+    width: 65px;
+    height: 60px;
+    margin: 20px 0px -15px 350px;
+    
+}
+span{
+    font-size: 50px;
+}
+#Register{
+    width: 300px;
+    height: 50px;
+    background-color: #022031;
+    color: white;
+    font-size: 30px;
+    font-family: serif;
+    text-align: center;
+    border:4px outset rgb(233, 12, 16);
+}
+#About{
+    width: 300px;
+    height: 50px;
+    background-color: #ca0000;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    border: 4px inset blueviolet;
+}
+.B{
+    margin:-600px 0px 0px 300px;
+    font-size: 70px;
+}
+fieldset{
+    width: 500px;
+    height: 450px;
+    margin: 20px 200px 0px 7px;
+    font-size: 20px;
+    color:red;
+    border-radius: 10px;
+    background:url(tree.jpg) no-repeat right top;
+    background-size: 50px,60px;
+}
+#box{
+    margin:5px 0px 0px 200px ;
+    width:260px;
+    height: 27px;
+    border-radius: 5px;
+    border: 4px dotted forestgreen;
+}
+h3{
+    margin:100px 0px -40px 30px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color:aquamarine;
+}
+#box1{
+    margin:5px 0px 0px 200px ;
+    width:260px;
+    height: 27px;
+    border-radius: 5px;
+    border:4px dashed black;
+}
+h4{
+    margin: 20px 0px -37px 30px ;
+    font-size: 30px;
+    font-family:fantasy;
+    color:coral;
+}
+#login{
+    margin:50px 0px 0px 165px ;
+    width: 150px;
+    height: 35px;
+    background-color:rgb(2, 43, 59);
+    color:rgb(218, 201, 201);
+    font-size:25px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    border:2.5px solid white;
+}
+.C{
+    margin: 47px 0px 0px 400px;
+    width: 550px;
+    height:490px;
+    border-radius: 12px;
+}
